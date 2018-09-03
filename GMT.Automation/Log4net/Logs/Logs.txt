@@ -1,0 +1,6 @@
+DEBUG 2018-09-03 15:27:53,010   305ms CaseSmokeTest          SetupTest          - Configuring log4net
+DEBUG 2018-09-03 15:27:53,052   347ms CaseSmokeTest          SetupTest          - Get Application Path
+DEBUG 2018-09-03 15:27:53,705  1000ms CaseSmokeTest          SetupTest          - Launching GMT Application
+DEBUG 2018-09-03 15:28:02,431  9725ms CaseSmokeTest          SetupTest          - Wait to Get Application correct application instance
+DEBUG 2018-09-03 15:28:02,466  9760ms CaseSmokeTest          SetupTest          - Get Application correct application instance
+DEBUG 2018-09-03 15:28:02,723 10018ms CaseSmokeTest          SetupTest          - Starting Test
